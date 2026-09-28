@@ -27,8 +27,8 @@ class Vector:
 
     @classmethod
     def create_vector_by_two_points(
-        cls, 
-        start_point: tuple, 
+        cls,
+        start_point: tuple,
         end_point: tuple
     ) -> Vector:
         # дальше ваш код...
